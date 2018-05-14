@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "aws-sdk": "^2.233.1",
+        "https": "^1.0.0",
+        "lodash": "^4.17.10",
+        "request": "^2.85.0",
+        "request-promise": "^4.2.2",
+        "require": "^2.4.20"
+    }
+}
